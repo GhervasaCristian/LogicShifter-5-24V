@@ -134,6 +134,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=project_sim_config.simcfg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Test Points\Assembly Testpoint Report for LogicShifter.csv
 DItemRevisionGUID=
@@ -423,254 +440,262 @@ DocumentPath=OUTPUT\NC Drill\LogicShifter.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.REP
+DocumentPath=Project Outputs for LogicShifter\LogicShifter.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifter.REP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=OUTPUT\GerberX2\LogicShifter.REP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=OUTPUT\ODB\LogicShifter.REP
+DocumentPath=OUTPUT\GerberX2\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.TXT
+DocumentPath=OUTPUT\ODB\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=OUTPUT\NC Drill\LogicShifter.TXT
+DocumentPath=Simulation\LogicShifter.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
+DocumentPath=OUTPUT\NC Drill\LogicShifter.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Top.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Top.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Top.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Profile.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Profile.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Top.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.DRR
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.EXTREP
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.LDP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.REP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifterPanel.REP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.TXT
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifterPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Profile.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\matrix\matrix
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument113]
-DocumentPath=OUTPUT\ODB\odb\matrix\matrix
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument114]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\netlists\cadnet\netlist
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument115]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\netlists\cadnet\netlist
+DocumentPath=OUTPUT\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument116]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument117]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument118]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.csv
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument119]
-DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.csv
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument120]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.txt
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.csv
 DItemRevisionGUID=
 
 [GeneratedDocument121]
-DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.txt
+DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.csv
 DItemRevisionGUID=
 
 [GeneratedDocument122]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.csv
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.txt
 DItemRevisionGUID=
 
 [GeneratedDocument123]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.txt
+DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.txt
 DItemRevisionGUID=
 
 [GeneratedDocument124]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.csv
 DItemRevisionGUID=
 
 [GeneratedDocument125]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.txt
 DItemRevisionGUID=
 
 [GeneratedDocument126]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\profile
 DItemRevisionGUID=
 
 [GeneratedDocument127]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\profile
 DItemRevisionGUID=
 
 [GeneratedDocument128]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\stephdr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument129]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\stephdr
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument130]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\stephdr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument131]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\stephdr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument132]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument133]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
 [GeneratedDocument134]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [GeneratedDocument135]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument137]
 DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
@@ -683,6 +708,13 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SimulationProfiles]
+ActiveProfile=MTGRWGST
+ProfileId0=MTGRWGST
+ProfileName0=Mixed Sim Configuration
+OutputType0=AdvSimNetlist
+ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=V1|DC_PrimaryStart=0|DC_PrimaryStop=5|DC_PrimaryStep=50m|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=1|Noise_Start=1|Noise_Stop_UserValue=25M|Noise_Stop=25M|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue=1|AC_StartFrequency=1|AC_StopFrequency_UserValue=25M|AC_StopFrequency=25M|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Impedance0_UserValue=|SP_Impedance1_UserValue=|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=20.00u|TRAN_StepTime_UserValue=|TRAN_StepTime=160.0n|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=160.0n|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=250.0k|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=Freq|ParamSweep_Type1=LIN|ParamSweep_Start1=1k|ParamSweep_Stop1=100M|ParamSweep_Step1=1k|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|InteractiveProbeMode=True|SheetsToNetlist=0|ParamSweep_CustomStart0_UserValue=1k|ParamSweep_CustomStop0_UserValue=100M|ParamSweep_CustomStep0_UserValue=1k|ParamSweep_Start1_UserValue=1k|ParamSweep_Stop1_UserValue=100M|ParamSweep_Step1_UserValue=1k|Sensitivity_ParameterDeviation0_UserValue=|LaunchDate=2026-10-05 13:26:56Z|DC_CustomStart0_UserValue=|DC_CustomStop0_UserValue=5|DC_CustomStep0_UserValue=50m|DC_PrimaryStart_UserValue=|DC_PrimaryStop_UserValue=5|DC_PrimaryStep_UserValue=50m|ParamName0=Freq|ParamValue0=1000|DC_CustomEnabled0=True|DC_CustomSource0=V1|DC_CustomStart0=0|DC_CustomStop0=5|DC_CustomStep0=50m|AC_VariableEnabled0=True|AC_XVariable0=|AC_Variable0=dB(MAG(v(S_OUT)))|AC_VariableName0=|AC_VariableUnits0=|AC_VariablePlot0=0|AC_VariableAxis0=0|AC_VariableColor0=39423|AC_VariableEnabled1=True|AC_XVariable1=|AC_Variable1=PHASE(v(S_OUT))|AC_VariableName1=|AC_VariableUnits1=|AC_VariablePlot1=0|AC_VariableAxis1=0|AC_VariableColor1=16711935|AC_VariableEnabled2=True|AC_XVariable2=|AC_Variable2=v(s_out)|AC_VariableName2=|AC_VariableUnits2=V|AC_VariablePlot2=0|AC_VariableAxis2=0|AC_VariableColor2=4957091|SP_Port0=V2|SP_Impedance0=50|SP_Port1=V2|SP_Impedance1=50|ParamSweep_CustomEnabled0=True|ParamSweep_CustomParameter0=Freq|ParamSweep_CustomType0=LIN|ParamSweep_CustomStart0=1k|ParamSweep_CustomStop0=100M|ParamSweep_CustomStep0=1k|Sensitivity_ParameterEnabled0=True|Sensitivity_Parameter0=Temp|Sensitivity_ParameterDeviation0=1m
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -805,6 +837,10 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=V1|DC_PrimaryStart=0|DC_PrimaryStop=5|DC_PrimaryStep=50m|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue=1|Noise_Start=1|Noise_Stop_UserValue=25M|Noise_Stop=25M|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue=1|AC_StartFrequency=1|AC_StopFrequency_UserValue=25M|AC_StopFrequency=25M|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Impedance0_UserValue= |SP_Impedance1_UserValue= |TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=20.00u|TRAN_StepTime_UserValue= |TRAN_StepTime=160.0n|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=160.0n|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=250.0k|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1=Freq|ParamSweep_Type1=LIN|ParamSweep_Start1=1k|ParamSweep_Stop1=100M|ParamSweep_Step1=1k|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|InteractiveProbeMode=True|SheetsToNetlist=0|ParamSweep_CustomStart0_UserValue=1k|ParamSweep_CustomStop0_UserValue=100M|ParamSweep_CustomStep0_UserValue=1k|ParamSweep_Start1_UserValue=1k|ParamSweep_Stop1_UserValue=100M|ParamSweep_Step1_UserValue=1k|Sensitivity_ParameterDeviation0_UserValue= |LaunchDate=2026-10-05 13:26:56Z|DC_CustomStart0_UserValue= |DC_CustomStop0_UserValue=5|DC_CustomStep0_UserValue=50m|DC_PrimaryStart_UserValue= |DC_PrimaryStop_UserValue=5|DC_PrimaryStep_UserValue=50m|ParamName0=Freq|ParamValue0=1000|DC_CustomEnabled0=True|DC_CustomSource0=V1|DC_CustomStart0=0|DC_CustomStop0=5|DC_CustomStep0=50m|AC_VariableEnabled0=True|AC_XVariable0= |AC_Variable0=dB(MAG(v(S_OUT)))|AC_VariableName0= |AC_VariableUnits0= |AC_VariablePlot0=0|AC_VariableAxis0=0|AC_VariableColor0=39423|AC_VariableEnabled1=True|AC_XVariable1= |AC_Variable1=PHASE(v(S_OUT))|AC_VariableName1= |AC_VariableUnits1= |AC_VariablePlot1=0|AC_VariableAxis1=0|AC_VariableColor1=16711935|AC_VariableEnabled2=True|AC_XVariable2= |AC_Variable2=v(s_out)|AC_VariableName2= |AC_VariableUnits2=V|AC_VariablePlot2=0|AC_VariableAxis2=0|AC_VariableColor2=4957091|SP_Port0=V2|SP_Impedance0=50|SP_Port1=V2|SP_Impedance1=50|ParamSweep_CustomEnabled0=True|ParamSweep_CustomParameter0=Freq|ParamSweep_CustomType0=LIN|ParamSweep_CustomStart0=1k|ParamSweep_CustomStop0=100M|ParamSweep_CustomStep0=1k|Sensitivity_ParameterEnabled0=True|Sensitivity_Parameter0=Temp|Sensitivity_ParameterDeviation0=1m|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=MTGRWGST
 
 [OutputGroup3]
 Name=Documentation Outputs
