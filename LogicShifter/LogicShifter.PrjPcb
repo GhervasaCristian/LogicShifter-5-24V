@@ -234,723 +234,863 @@ DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\Georg
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\BOM\Bill of Materials-LogicShifter.xlsx
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\BOM\Bill of Materials-LogicShifter.csv
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=OUTPUT\BOM\Bill of Materials-LogicShifter.xlsx
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\BOM\Bill of Materials-LogicShifter.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\BOM\Bill of Materials-LogicShifterPanel.xlsx
+DocumentPath=OUTPUT\BOM\Bill of Materials-LogicShifter.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\components
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\BOM\Bill of Materials-LogicShifterPanel.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\components
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\components
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\components
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=OUTPUT\BOM\Copy of Bill of Materials-LogicShifter.xlsx
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\eda\data
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\eda\data
+DocumentPath=OUTPUT\BOM\Copy of Bill of Materials-LogicShifter.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\eda\data
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\eda\data
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\eda\data
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\eda\data
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_overlay\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_paste\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_solder\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\dielectric_1\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_overlay\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_paste\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_solder\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_overlay\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_paste\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_solder\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\dielectric_1\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_overlay\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_paste\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_solder\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_overlay\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_paste\features
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_solder\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\dielectric_1\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_overlay\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_paste\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_solder\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_overlay\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_paste\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_solder\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom\features
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\dielectric_1\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_overlay\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_paste\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_solder\features
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top\features
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=OUTPUT\IPC2581\LogicShifter.cvg
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.DRR
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=OUTPUT\NC Drill\LogicShifter.DRR
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.EXTREP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=OUTPUT\GerberX2\LogicShifter.EXTREP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.LDP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=OUTPUT\NC Drill\LogicShifter.LDP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for LogicShifter\LogicShifter.nsx
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.REP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifter.REP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=OUTPUT\GerberX2\LogicShifter.REP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=OUTPUT\ODB\LogicShifter.REP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Simulation\LogicShifter.sdf
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.TXT
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=OUTPUT\NC Drill\LogicShifter.TXT
+DocumentPath=OUTPUT\IPC2581\LogicShifter.cvg
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
+DocumentPath=OUTPUT\NC Drill\LogicShifter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Top.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument113]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument114]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument115]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Bot.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument116]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument117]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Top.gbr
+DocumentPath=OUTPUT\NC Drill\LogicShifter.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument118]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Bot.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument119]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Bot.gbr
+DocumentPath=Project Outputs for LogicShifter\LogicShifter.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument120]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument121]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument122]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Profile.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument123]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Profile.gbr
+DocumentPath=OUTPUT\ODB\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument124]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Bot.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument125]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Bot.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifter.REP
 DItemRevisionGUID=
 
 [GeneratedDocument126]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Top.gbr
+DocumentPath=Simulation\LogicShifter.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument127]
-DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument128]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.DRR
+DocumentPath=OUTPUT\NC Drill\LogicShifter.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument129]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.DRR
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifter.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument130]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.EXTREP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument131]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.EXTREP
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument132]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.LDP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument133]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.LDP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument134]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.REP
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument135]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifterPanel.REP
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument136]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.REP
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument137]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifterPanel.REP
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument138]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.TXT
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument139]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.TXT
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument140]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument141]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Bot.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument142]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument143]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Top.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument144]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Bot.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument145]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument146]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Top.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument147]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Top.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument148]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument149]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument150]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Top.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument151]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument152]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Profile.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument153]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Profile.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument154]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Bot.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument155]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Bot.gbr
+DocumentPath=OUTPUT\GerberX2\LogicShifter_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument156]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Top.gbr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifter_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument157]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Top.gbr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument158]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\matrix\matrix
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument159]
-DocumentPath=OUTPUT\ODB\odb\matrix\matrix
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument160]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\matrix\matrix
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument161]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\netlists\cadnet\netlist
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument162]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\netlists\cadnet\netlist
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument163]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument164]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifterPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument165]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\netlists\cadnet\netlist
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument166]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\netlists\cadnet\netlist
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\LogicShifterPanel.REP
 DItemRevisionGUID=
 
 [GeneratedDocument167]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.csv
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument168]
-DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.csv
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\NC Drill\LogicShifterPanel.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument169]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.txt
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument170]
-DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.txt
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument171]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.csv
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument172]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.csv
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument173]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.txt
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument174]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.txt
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument175]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument176]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\profile
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument177]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument178]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\profile
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument179]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\profile
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument180]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\profile
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument181]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\stephdr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument182]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\stephdr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument183]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\stephdr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument184]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\stephdr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument185]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\stephdr
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument186]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\stephdr
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\GerberX2\LogicShifterPanel_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument187]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument188]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=OUTPUT\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument189]
-DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument190]
-DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument191]
-DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\tools
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument192]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument193]
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument194]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument195]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument196]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument197]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.csv
+DItemRevisionGUID=
+
+[GeneratedDocument198]
+DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.csv
+DItemRevisionGUID=
+
+[GeneratedDocument199]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.csv
+DItemRevisionGUID=
+
+[GeneratedDocument200]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.txt
+DItemRevisionGUID=
+
+[GeneratedDocument201]
+DocumentPath=OUTPUT\Pick Place\Pick Place for LogicShifter.txt
+DItemRevisionGUID=
+
+[GeneratedDocument202]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifter.txt
+DItemRevisionGUID=
+
+[GeneratedDocument203]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.csv
+DItemRevisionGUID=
+
+[GeneratedDocument204]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.csv
+DItemRevisionGUID=
+
+[GeneratedDocument205]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.txt
+DItemRevisionGUID=
+
+[GeneratedDocument206]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\Pick Place\Pick Place for LogicShifterPanel.txt
+DItemRevisionGUID=
+
+[GeneratedDocument207]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\profile
+DItemRevisionGUID=
+
+[GeneratedDocument208]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\profile
+DItemRevisionGUID=
+
+[GeneratedDocument209]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument210]
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument211]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\profile
+DItemRevisionGUID=
+
+[GeneratedDocument212]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\profile
+DItemRevisionGUID=
+
+[GeneratedDocument213]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument214]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument215]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument216]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument217]
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument218]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument219]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument220]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument221]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument222]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument223]
+DocumentPath=..\..\..\..\Admin\Documents\GitHub\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument224]
+DocumentPath=OUTPUT\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument225]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\panel\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument226]
 DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb1\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument227]
+DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
 [Configuration1]
