@@ -1093,6 +1093,22 @@ DItemRevisionGUID=
 DocumentPath=..\..\MedicalResearch\INTL - RF PCB\NFC_PCB_Altium\PCB Output\George LV\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
+[Parameter1]
+Name=Revision
+Value=1.0
+
+[Parameter2]
+Name=Title
+Value=5V to 24V Logic Shifter
+
+[Parameter3]
+Name=Size
+Value=6x6mm
+
+[Parameter4]
+Name=Author
+Value=Cristian Ghervasă
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
